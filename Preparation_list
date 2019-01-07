@@ -20,6 +20,9 @@ services
 Broad cast receivers
 Content providers
 android architecture components
+
+Finger print implementation
+google maps
 ================================
 
 Other tools
