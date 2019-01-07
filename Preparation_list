@@ -20,6 +20,13 @@ services
 Broad cast receivers
 Content providers
 android architecture components
+================================
+
+Other tools
+--------------
+VCS - Git Bitbucket
+CI tool - CI and jenkins
+unit testing tool - Junit, Espresso
 
 
 
