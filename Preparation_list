@@ -2,13 +2,24 @@
 List of things need to prepare for new job
 
 Java
-
+-------
 Oops
 Collections
 streams
 lambda expressions
 annotations
 Jva 8 and 9 features
+Exception Handling
+Multi Threading
+==================
+
+Android 
+-----------
+Activities
+services
+Broad cast receivers
+Content providers
+android architecture components
 
 
 
